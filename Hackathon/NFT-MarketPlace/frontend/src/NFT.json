@@ -1,0 +1,50 @@
+ [
+        {
+            "name": "Ambi",
+            "symbol": "AMB",
+            "image": "./assets/0.png",
+            "description":"Ambi is a character from movie Aparichit.This character is very calm and polite and intelligent.",
+            "properties": {
+                "files": [{ "url": "0.png", "type": "image/png" }],
+                "creators": [
+                    {
+                        "address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
+                        "share": 100
+                    }
+                ]
+            }
+        },
+
+        {
+            "name": "Anniyan",
+            "symbol": "ANN",
+            "image": "./assets/1.png",
+            "description":"Anniyan is a character from movie Aparichit.This character is very angry and patriotic.He is against the bribe system in india",
+            "properties": {
+                "files": [{ "url": "1.png", "type": "image/png" }],
+                "creators": [
+                    {
+                        "address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
+                        "share": 100
+                    }
+                ]
+            }
+
+        },
+        {
+            "name": "Remo",
+            "symbol": "REM",
+            "image": "./assets/2.png",
+            "description":"Ramo is a character from movie Aparichit.This character is very funny and loving.He is versatile charactor like hero in movie",
+            "properties": {
+                "files": [{ "url": "2.png", "type": "image/png" }],
+                "creators": [
+                    {
+                        "address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
+                        "share": 100
+                    }
+                ]
+            }
+        }
+   
+]
